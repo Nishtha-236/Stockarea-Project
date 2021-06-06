@@ -1,0 +1,9 @@
+VUE STOCK AREA PROJECT BY NISHTHA MAHAJAN
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+1. Go inside Vue StockArea Frontend Handler Folder
+2. Do npm install to install all the node modules
+3. Go inside Django Api Call Handler/main and run- python manage.py runserver 9000
+4. Go back to Vue StockArea Frontend Handler Folder and run the app by npm run serve
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
